@@ -1,4 +1,4 @@
-# 🌍 Earthquake Prediction – Useful Resources
+#  Earthquake Prediction – Useful Resources
 
 Bu doküman, deprem tahmini projesi geliştirme sürecinde faydalanılacak kaynakları içermektedir.
 
@@ -11,7 +11,7 @@ Bu doküman, deprem tahmini projesi geliştirme sürecinde faydalanılacak kayna
 - Platform: [Kaggle](https://www.kaggle.com/)
 - Açıklama: Deprem tahmini üzerine veri analizi ve modelleme örneği
 - Link:  
-  👉 https://www.kaggle.com/code/mahadevmm9/earthquake-prediction/notebook
+   https://www.kaggle.com/code/mahadevmm9/earthquake-prediction/notebook
 
 ---
 
@@ -21,13 +21,13 @@ Bu doküman, deprem tahmini projesi geliştirme sürecinde faydalanılacak kayna
 
 - Açıklama: Deep learning tabanlı deprem tespiti ve faz belirleme modeli
 - GitHub Repo:  
-  👉 https://github.com/smousavi05/EQTransformer
+   https://github.com/smousavi05/EQTransformer
 
 ### 🔹 EQTransformer – Documentation
 
 - Özellikle: *Application to Other Regions* bölümü önemli
 - Dokümantasyon:  
-  👉 https://eqtransformer.readthedocs.io/en/latest/overview.html#application-to-other-regions
+   https://eqtransformer.readthedocs.io/en/latest/overview.html#application-to-other-regions
 
 ---
 
@@ -36,9 +36,8 @@ Bu doküman, deprem tahmini projesi geliştirme sürecinde faydalanılacak kayna
 ### 🔹 DergiPark Makalesi
 
 - Açıklama: Deprem tahmini üzerine akademik çalışma
-- PDF:  
-    https://dergipark.org.tr/tr/download/article-file/3024990
-    https://www.acapublishing.com/dosyalar/baski/CEBEL_2026_1114.pdf
+- PDF: https://dergipark.org.tr/tr/download/article-file/3024990
+- PDF: https://www.acapublishing.com/dosyalar/baski/CEBEL_2026_1114.pdf
 
 ---
 
@@ -48,7 +47,7 @@ Bu doküman, deprem tahmini projesi geliştirme sürecinde faydalanılacak kayna
 
 - Açıklama: Kaggle üzerinden yapılan contest
 - İzle:  
-  👉 https://youtu.be/TffGdSsWKlA
+   https://youtu.be/TffGdSsWKlA
 
 ---
 
