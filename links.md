@@ -45,9 +45,9 @@ Bu doküman, deprem tahmini projesi geliştirme sürecinde faydalanılacak kayna
 
 ### 🔹 YouTube Anlatımı
 
-- Açıklama: Kaggle üzerinden yapılan contest
-- İzle:  
-   https://youtu.be/TffGdSsWKlA
+
+- link: https://youtu.be/TffGdSsWKlA
+- link: https://youtu.be/Z_YRzVYe7N4?si=zMo2svCaRRGxv7S5
 
 ---
 
