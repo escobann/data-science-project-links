@@ -55,3 +55,10 @@ Bu doküman, deprem tahmini projesi geliştirme sürecinde faydalanılacak kayna
 
 - Bu kaynaklar model geliştirme, veri analizi ve literatür araştırması için referans olarak kullanılacaktır.
 - Proje ilerledikçe yeni kaynaklar eklenecektir.
+
+---
+## Araştırma için AI toolar
+- Burada aratırma için kullanılabilecek tooların listesi bulunuyor.
+- link: https://guides.library.georgetown.edu/ai/tools
+-Papers with Code is a platform that provides state-of-the-art research papers along with their code implementations on Github, and their        datasets contributed either by the authors or the community.
+- https://huggingface.co/papers/trending
