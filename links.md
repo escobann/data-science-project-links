@@ -62,3 +62,7 @@ Bu doküman, deprem tahmini projesi geliştirme sürecinde faydalanılacak kayna
 - link: https://guides.library.georgetown.edu/ai/tools
 - Papers with Code is a platform that provides state-of-the-art research papers along with their code implementations on Github, and their        datasets contributed either by the authors or the community.
 - link: https://huggingface.co/papers/trending
+
+## Kullanılacak Data Setleri
+- Açıklama: Kandilli Rasathanesi Deprem Kataloğu
+- link: http://www.koeri.boun.edu.tr/sismo/zeqdb/
