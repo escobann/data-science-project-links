@@ -60,5 +60,5 @@ Bu doküman, deprem tahmini projesi geliştirme sürecinde faydalanılacak kayna
 ## Araştırma için AI toolar
 - Burada aratırma için kullanılabilecek tooların listesi bulunuyor.
 - link: https://guides.library.georgetown.edu/ai/tools
--Papers with Code is a platform that provides state-of-the-art research papers along with their code implementations on Github, and their        datasets contributed either by the authors or the community.
-- https://huggingface.co/papers/trending
+- Papers with Code is a platform that provides state-of-the-art research papers along with their code implementations on Github, and their        datasets contributed either by the authors or the community.
+- link: https://huggingface.co/papers/trending
