@@ -66,3 +66,9 @@ Bu doküman, deprem tahmini projesi geliştirme sürecinde faydalanılacak kayna
 ## Kullanılacak Data Setleri
 - Açıklama: Kandilli Rasathanesi Deprem Kataloğu
 - link: http://www.koeri.boun.edu.tr/sismo/zeqdb/
+---
+## Teknik Rapor Yazımı
+- Guideline link: https://homes.cs.washington.edu/~mernst/advice/write-technical-paper.html
+  - https://www.e-education.psu.edu/styleforstudents/c6_p14.html
+  - https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fspaceconf.org%2Fwp-content%2Fuploads%2F2023%2F11%2Fpaper-template-Springer-Nature.doc&wdOrigin=BROWSELINK
+
