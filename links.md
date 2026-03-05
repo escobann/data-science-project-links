@@ -38,6 +38,7 @@ Bu doküman, deprem tahmini projesi geliştirme sürecinde faydalanılacak kayna
 - Açıklama: Deprem tahmini üzerine akademik çalışma
 - PDF: https://dergipark.org.tr/tr/download/article-file/3024990
 - PDF: https://www.acapublishing.com/dosyalar/baski/CEBEL_2026_1114.pdf
+- PDF: https://link.springer.com/content/pdf/10.1007/s12145-022-00916-2.pdf
 
 ---
 
