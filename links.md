@@ -40,6 +40,7 @@ Bu doküman, deprem tahmini projesi geliştirme sürecinde faydalanılacak kayna
 - PDF: https://www.acapublishing.com/dosyalar/baski/CEBEL_2026_1114.pdf
 - PDF: https://link.springer.com/content/pdf/10.1007/s12145-022-00916-2.pdf
 - An Introduction to Seismology, Earthquakes, and Earth Structure: https://github.com/CovMat/EBooks-of-Geophysics/blob/master/An%20Introduction%20to%20Seismology%2C%20Earthquakes%2C%20and%20Earth%20Structure.pdf
+- KRDAE katalogdaki veriler ne anlama geliyor? : http://www.koeri.boun.edu.tr/sismo/2/deprem-bilgileri/genel-bilgiler/
 
 ---
 
